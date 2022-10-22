@@ -1,0 +1,21 @@
+{
+  "name": "@muzamint/simple-react-hook-template",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "source": "src/foo.js",
+  "exports": {
+    "require": "./dist/foo.cjs",
+    "default": "./dist/foo.modern.js"
+  },
+  "main": "./dist/foo.cjs",
+  "module": "./dist/foo.module.js",
+  "unpkg": "./dist/foo.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  }
+}
