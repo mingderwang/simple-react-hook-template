@@ -1,0 +1,5 @@
+coverage
+coverage.json
+cache
+artifacts/build-info
+artifacts/**/*.dbg.json
