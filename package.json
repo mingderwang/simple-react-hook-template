@@ -2,6 +2,7 @@
   "name": "@muzamint/simple-react-hook-template",
   "version": "0.0.1",
   "license": "MIT",
+  "author": "Ming-der Wang",
   "type": "module",
   "source": "src/foo.js",
   "exports": {
@@ -20,14 +21,14 @@
   },
   "keywords": [
     "example",
-    "template",
+    "template"
   ],
-    "repository": {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/mingderwang/simple-react-hook-template.git"
+    "url": "git+https://github.com/mingderwang/simple-react-hook-template.git"
   },
   "bugs": {
     "url": "https://github.com/mingderwang/simple-react-hook-template/issues"
   },
-  "homepage": "https://github.com/mingderwang/simple-react-hook-template",
+  "homepage": "https://github.com/mingderwang/simple-react-hook-template#readme"
 }
