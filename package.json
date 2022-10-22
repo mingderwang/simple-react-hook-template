@@ -17,5 +17,17 @@
   },
   "devDependencies": {
     "microbundle": "^0.15.1"
-  }
+  },
+  "keywords": [
+    "example",
+    "template",
+  ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/mingderwang/simple-react-hook-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mingderwang/simple-react-hook-template/issues"
+  },
+  "homepage": "https://github.com/mingderwang/simple-react-hook-template",
 }
